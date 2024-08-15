@@ -1,5 +1,5 @@
-pandas
-numpy
-streamlit
-yfinance
-matplotlib
+pandas==2.2.2
+numpy==2.0.1
+streamlit==1.37.1
+yfinance==0.2.41
+matplotlib==3.9.1
